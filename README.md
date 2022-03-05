@@ -2,7 +2,7 @@
 
 # Google Maps Workshop @ Ironhack Madrid | March 2022
 
-Taller de progrtamación impartido por [Germán Álvarez](https://www.linkedin.com/in/german-alvarez-dev/) @ [Ironhack Madrid](https://www.ironhack.com/es/desarrollo-web/madrid)
+Taller de programación impartido por [Germán Álvarez](https://www.linkedin.com/in/german-alvarez-dev/) @ [Ironhack Madrid](https://www.ironhack.com/es/desarrollo-web/madrid)
 
 ## Descarga de archivos
 
