@@ -6,7 +6,7 @@ Taller de progrtamación impartido por [Germán Álvarez](https://www.linkedin.c
 
 ## Descarga de archivos
 
-Descárgate los archivos iniciales para el taller haciendo click en el botón verde de la esquina superior izquierda ('Code') y seleccionando 'Download zip'
+Descárgate los archivos iniciales para el taller haciendo click en el botón verde de la esquina superior izquierda (`Code`) y seleccionando `Download zip`
 
 ## Software necesario
 
