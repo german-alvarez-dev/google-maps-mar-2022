@@ -8,9 +8,12 @@ Taller de programación impartido por [Germán Álvarez](https://www.linkedin.co
 
 Descárgate los archivos iniciales para el taller haciendo click en el botón verde de la esquina superior izquierda (`Code`) y seleccionando `Download zip`
 
-## Software necesario
+## Google API key
 
-Para el taller usaremos dos programas:
+Para obtener tu propia API key debes registrarte en Google Maps Cloud y generarla desde la sección Credentials de tu proyecto - [ver instrucciones](https://developers.google.com/maps/documentation/javascript/get-api-key).
 
-- Desarrollo de la aplicación mediante el editor de código [Visual Studio Code](https://code.visualstudio.com)
-- Visualización de la aplicación mediante el navegador [Google Chorme](https://www.google.com/intl/es_es/chrome/)
+Una vez generada la API key, pegarla en el script de google maps incluido en el archivo `index.html` de la siguiente forma:
+
+````html
+<script src="https://maps.googleapis.com/maps/api/js?key=____PEGAR_AQUI_TU_API_KEY_____&callback=printInitialMap"></script>
+````
